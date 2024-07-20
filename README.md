@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/5f/70/8d/5f708d3e27c7cca412cb2cf4c0e5bc3f.gif"  />
-</div>
-
-###
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -21,10 +15,6 @@
 ###
 
 <h2 align="left">I code with</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/anirudh-muthusundaram/anirudh-muthusundaram/output/snake.svg" alt="Snake animation" />
 
 ###
 
