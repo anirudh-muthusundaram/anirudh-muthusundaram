@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2011<br>📚 I'm currently learning Snowflake<br>🎯 Goals: To Become The Best in Tech<br>💬 Ask me about Web Apps, Machine learning optimizations, Deep Learning, Natural Language Processing, blockchain & NFTs<br>🎲 Fun fact: Did you know that I recently combined my love for technology with my passion for sneakers? I developed an e-commerce website for sneakers that integrates blockchain authentication to verify the authenticity of the products. It's been an exciting project where I got to mix my professional skills with a personal interest, and I can't wait to see where it goes next!<br>📄 Know about my experiences: https://sapphire-daisi-13.tiiny.site<br>📫 How to reach me: anirudhms247@gmail.com</p>
+<p align="left">✨ Creating Applications since 2018<br>📚 I'm currently learning Snowflake<br>🎯 Goals: To Become The Best in Tech<br>💬 Ask me about Web Apps, Machine learning optimizations, Deep Learning, Natural Language Processing, blockchain & NFTs<br>🎲 Fun fact: Did you know that I recently combined my love for technology with my passion for sneakers? I developed an e-commerce website for sneakers that integrates blockchain authentication to verify the authenticity of the products. It's been an exciting project where I got to mix my professional skills with a personal interest, and I can't wait to see where it goes next!<br>📄 Know about my experiences: https://sapphire-daisi-13.tiiny.site<br>📫 How to reach me: anirudhms247@gmail.com</p>
 
 ###
 
