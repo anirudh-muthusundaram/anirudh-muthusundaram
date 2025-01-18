@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My nme is Anirudh Muthusundaram and I am a Master's graduate in Computer Science and Engineering from the University at Buffalo with a passion for leveraging technology to solve real-world problems. My expertise spans across data engineering, machine learning, blockchain development, and full-stack web development.</p>
+<p align="left">My name is Anirudh Muthusundaram and I am a Master's graduate in Computer Science and Engineering from the University at Buffalo with a passion for leveraging technology to solve real-world problems. My expertise spans across data engineering, machine learning, blockchain development, and full-stack web development.</p>
 
 ###
 
