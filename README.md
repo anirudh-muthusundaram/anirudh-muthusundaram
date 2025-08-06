@@ -4,7 +4,6 @@
 
 <a href="mailto:anirudhms247@gmail.com"><img src="https://img.shields.io/badge/Email-anirudhms247@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
 <a href="https://www.linkedin.com/in/anirudh-muthusundaram/"><img src="https://img.shields.io/badge/LinkedIn-anirudh--muthusundaram-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://github.com/anirudh-muthusundaram"><img src="https://img.shields.io/badge/GitHub-anirudh--muthusundaram-blue?style=for-the-badge&logo=github" alt="GitHub"></a>
 
 </div>
 
