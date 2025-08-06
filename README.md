@@ -10,14 +10,14 @@
 
 ## About Me
 
-[cite_start]I am a recent Master's graduate in Computer Science and Engineering from the University at Buffalo[cite: 4, 5], specializing in the practical application of technology to address real-world challenges. My expertise encompasses data engineering, machine learning, blockchain development, and full-stack web development.
+I am a recent Master's graduate in Computer Science and Engineering from the University at Buffalo, specializing in the practical application of technology to address real-world challenges. My expertise encompasses data engineering, machine learning, blockchain development, and full-stack web development.
 
-- [cite_start]🔭 I’m currently working on fine-tuning large language models (LLMs) like Qwen 1.5B and Gemma-1B for STEM-related reasoning[cite: 17].
-- 🌱 I’m currently learning more about AI Agents and their applications.
-- [cite_start]👯 I’m looking to collaborate on projects involving Natural Language Processing and web automation[cite: 35].
+- 🔭 I’m currently working on AI Agents centered on Blockchain applications.
+- 🌱 I’m currently learning more about Langgraph and Langchain.
+- 👯 I’m looking to collaborate on projects involving Natural Language Processing and web automation.
 - 🤔 I’m looking for help with optimizing AI-infused search systems.
 - 💬 Ask me about: Web Apps, Machine Learning, AI Agents, MCP, Blockchain & NFTs.
-- [cite_start]📫 How to reach me: anirudhms247@gmail.com [cite: 3]
+- 📫 How to reach me: anirudhms247@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I recently developed an e-commerce website for sneakers that uses blockchain authentication to verify product authenticity.
 
@@ -77,23 +77,23 @@
 ## 🏆 My Projects
 
 ### **RL and Chain of Thoughts-based Quantitative Reasoning LLM model**
-- [cite_start]Utilized the Qwen-3-1.7B language model with Group Relative Policy Optimization (GRPO) and Chain-of-Thought (CoT) prompting on a physics benchmark dataset[cite: 40].
-- [cite_start]This approach improved the model's reasoning and alignment with human-like problem-solving[cite: 41].
-- [cite_start]The integration of GRPO and CoT led to a 12% increase in model accuracy on the physics benchmark[cite: 42].
+- Utilized the Qwen-3-1.7B language model with Group Relative Policy Optimization (GRPO) and Chain-of-Thought (CoT) prompting on a physics benchmark dataset.
+- This approach improved the model's reasoning and alignment with human-like problem-solving.
+- The integration of GRPO and CoT led to a 12% increase in model accuracy on the physics benchmark.
 
 ### **AI-Infused Solr Searchbot: Effortless Wikipedia Knowledge Retrieval with GPT**
-- [cite_start]Designed a system that integrates Apache Solr's indexed Wikipedia data with AI for efficient knowledge retrieval and summarization[cite: 44].
-- [cite_start]Developed a web crawler to scrape and preprocess 55,000 data points and ETL them into JSON format[cite: 45].
-- [cite_start]Built a React-based website with DialoGPT for querying, hosted on the Google Cloud Platform[cite: 46].
+- Designed a system that integrates Apache Solr's indexed Wikipedia data with AI for efficient knowledge retrieval and summarization.
+- Developed a web crawler to scrape and preprocess 55,000 data points and ETL them into JSON format.
+- Built a React-based website with DialoGPT for querying, hosted on the Google Cloud Platform.
 
 ---
 
 ## 📝 My Research
 
 - **SIITR: A Semantic Infused Intelligent Approach for Tag Recommendation**
-  - [cite_start]A tag recommendation system using similarity measures and SVM, achieving 94.48% accuracy[cite: 50].
-  - [cite_start]*Presented at ANTIC 2021 and published in Springer[cite: 51].*
+  - A tag recommendation system using similarity measures and SVM, achieving 94.48% accuracy.
+  - *Presented at ANTIC 2021 and published in Springer.* : https://link.springer.com/chapter/10.1007/978-3-030-96040-7_31
 
 - **ISBRNM: Integrative Approach for Semantically Driven Blog Recommendation Using Novel Measures**
-  - [cite_start]A blog recommendation system using NLP, GRUs, and optimization techniques, with 95.85% accuracy[cite: 53].
-  - [cite_start]*Presented at ICDTA 2022 and published in Springer[cite: 54].*
+  - A blog recommendation system using NLP, GRUs, and optimization techniques, with 95.85% accuracy.
+  - *Presented at ICDTA 2022 and published in Springer.* : https://link.springer.com/chapter/10.1007/978-3-031-02447-4_2
