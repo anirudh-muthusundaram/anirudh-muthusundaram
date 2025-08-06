@@ -13,7 +13,7 @@ I am a recent Master's graduate in Computer Science and Engineering from the Uni
 
 - 🔭 I’m currently working on AI Agents centered on Blockchain applications.
 - 🌱 I’m currently learning more about Langgraph and Langchain.
-- 👯 I’m looking to collaborate on projects involving Natural Language Processing and web automation.
+- 👯 I’m looking to collaborate on projects involving AI Agents and LLM Development.
 - 🤔 I’m looking for help with optimizing AI-infused search systems.
 - 💬 Ask me about: Web Apps, Machine Learning, AI Agents, MCP, Blockchain & NFTs.
 - 📫 How to reach me: anirudhms247@gmail.com 
@@ -74,6 +74,12 @@ I am a recent Master's graduate in Computer Science and Engineering from the Uni
 ---
 
 ## 🏆 My Projects
+
+### **AI-Powered Crypto Agent & MCP Server with Supabase Integration**
+- Developed a real-time cryptocurrency monitoring agent using Pydantic-AI and a local Llama 3.2 model, capable of fetching, analyzing, and validating market data from CoinGecko.
+- Integrated Supabase for automated storage and updating of top 50 cryptocurrency prices, ensuring accurate and consistent data syncing in realtime.
+- Implemented a Model Context Protocol (MCP) server to enable Claude Desktop to perform CRUD operations on the crypto database, using FastMCP and secure environment configuration.
+- Designed robust error handling, environment-driven configurations, and optimized SQL schema with indexing for scalable and reliable market monitoring.
 
 ### **RL and Chain of Thoughts-based Quantitative Reasoning LLM model**
 - Utilized the Qwen-3-1.7B language model with Group Relative Policy Optimization (GRPO) and Chain-of-Thought (CoT) prompting on a physics benchmark dataset.
