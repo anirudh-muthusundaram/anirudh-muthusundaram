@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a recent Master's graduate in Computer Science and Engineering from the University at Buffalo, specializing in the practical application of technology to address real-world challenges. My expertise encompasses data engineering, machine learning, blockchain development, and full-stack web development.
+I am a recent Master's graduate in Computer Science and Engineering from the University at Buffalo, specializing in the practical application of technology to address real-world challenges. My expertise encompasses Generative AI, Machine Learning, Chain of Thoughts Prompting, and LLM Customization (FT and RLHF with Reasoning).
 
 - 🔭 I’m currently working on AI Agents centered on Blockchain applications.
 - 🌱 I’m currently learning more about Langgraph and Langchain.
@@ -18,7 +18,7 @@ I am a recent Master's graduate in Computer Science and Engineering from the Uni
 - 💬 Ask me about: Web Apps, Machine Learning, AI Agents, MCP, Blockchain & NFTs.
 - 📫 How to reach me: anirudhms247@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I recently developed an e-commerce website for sneakers that uses blockchain authentication to verify product authenticity.
+- ⚡ Fun fact: I recently fine-tuned the Qwen3‑1.7B language model on a physics reasoning benchmark using GRPO and Chain‑of‑Thought prompting, achieving significant gains in symbolic accuracy and reasoning trace quality.
 
 ---
 
